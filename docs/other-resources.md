@@ -6,6 +6,9 @@ nav_order: 2
 description: List of Auslan resources.
 ---
 
+# Other Resources
+Below are some more resources associated with Auslan and d/Deaf culture.
+
 ## Table of Contents
 
 1. #### [Sign Vocabulary](#sign-vocabulary)
