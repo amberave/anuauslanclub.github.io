@@ -11,10 +11,10 @@ Below are some more resources associated with Auslan and d/Deaf culture.
 
 ## Table of Contents
 
-1. #### [Sign Vocabulary](#sign-vocabulary)
-2. #### [Organizations](#organizations)
-3. #### [Narratives](#narratives)
-4. #### [History](#history)
+#### [Sign Vocabulary](#sign-vocabulary)
+#### [Organizations](#organizations)
+#### [Narratives](#narratives)
+#### [History](#history)
 
 ## Sign Vocabulary
 

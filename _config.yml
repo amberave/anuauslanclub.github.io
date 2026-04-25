@@ -1,10 +1,13 @@
 title: ANU Auslan Club
 description: This site is home to information about the ANU Auslan Club!
 theme: just-the-docs
+repository: amberave/anuauslanclub.github.io
 
+baseurl: ""
 url: https://anuauslanclub.github.io
-logo: "/images/aac-logo-text"
-favicon_ico: "/images/aac-logo-symbol"
+logo: "/images/general/aac-logo-text"
+favicon_ico: "/images/general/aac-logo-symbol"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Contribute":
+    - "https://github.com/amberave/anuauslanclub.github.io"
