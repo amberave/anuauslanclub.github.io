@@ -6,6 +6,13 @@ nav_order: 2
 description: List of Auslan resources.
 ---
 
+## Table of Contents
+
+1. #### [Sign Vocabulary](#sign-vocabulary)
+2. #### [Organizations](#organizations)
+3. #### [Narratives](#narratives)
+4. #### [History](#history)
+
 ## Sign Vocabulary
 
 ### [Auslan Signbank (of course!)](https://auslan.org.au/)
