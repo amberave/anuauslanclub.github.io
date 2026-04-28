@@ -43,13 +43,22 @@
 * sign
 * language
 * learn
-* community
 * voice-off
 
 5. Verbs
 [in photo on chat]
 
-6. Revise all of them again
+6. Question words
+* who
+* what
+* when
+* where
+* why
+* how
+* how-much/how-many
+* how-old
+
+8. Revise all of them again
 
 ### Practice
 [think of activities to do, example conversations?]
