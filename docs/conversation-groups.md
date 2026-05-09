@@ -8,7 +8,7 @@ description: Information on Auslan Conversation Groups as run by the club.
 
 # Conversation Groups
 
-Auslan Conversation are run fortnightly on Saturday mornings from 9:30am in Marie Reay. Sessions run for approximately 2 hours. 
+Auslan Conversation are run fortnightly on Saturday mornings from 9:30am in Marie Reay. Sessions run for approximately 2 hours. See our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=OWUxOGI5OTkyN2M2MzU0N2FhZWUzOTgwM2UwMTQyOTIzOTVkMzk2YTc4Y2Q5NjI0MzU3YjdmNWQ4YjE1N2E5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for events details.
 
 Join for fun conversation, activities and meeting new people in a relaxed and supportive environment!
 
@@ -16,9 +16,13 @@ All the slides for previous sessions of Auslan Conversation Groups can be found 
 
 ### Frequently Asked Questions
 
+**Q: What room in Marie Reay?**
+
+A: At the moment, we will try and have all the sessions in 4.02 in Marie Reay. Any changes to this will be posted on our Instagram page and Facebook group.
+
 **Q: Will there be a teacher?**
 
-A: No. The Auslan club does not currently have the resources to hire an Auslan teacher. If you are interested in learning Auslan we would recommend finding a local class, please see [our advice on finding a class for you!](../index.md#local-classes)
+A: No. The Auslan Club does not currently have the resources to hire an Auslan teacher. If you are interested in learning Auslan, please see [our advice on finding a class for you!](../#local-classes)
 
 **Q: Can I come along if I don't know any Auslan?**
 
@@ -32,8 +36,14 @@ Generally, the sessions will follow the below basic structure:
 
 * Sign revision and fingerspelling practice
 * Videos about Deaf history, culture and/or Auslan theory
-* Learning new signs as shown in Signbank
+* Learning new signs as shown on Signbank
 * Practice, activities and conversation!
+
+**Q: Where are you getting your resources?**
+
+A: We try to ensure that all resources that are referenced during Conversation Groups are created by a Deaf person or trusted organisation (e.g. Deaf Connect, Deaf Australia). 
+
+The slides are currently compiled by a hearing member of the Auslan Club exec team.
 
 
 
