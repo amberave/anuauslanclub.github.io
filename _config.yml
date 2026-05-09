@@ -4,7 +4,7 @@ theme: just-the-docs
 repository: amberave/anuauslanclub.github.io
 baseurl: ""
 url: https://anuauslanclub.github.io
-logo: "/images/general/aac-logo-banner.png"
+logo: "/images/general/anusa-cropped.png"
 favicon_ico: "/images/general/favicon.ico"
 
 aux_links:

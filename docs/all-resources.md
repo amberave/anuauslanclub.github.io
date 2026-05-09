@@ -11,7 +11,7 @@ Below is a list of resources associated with Auslan and d/Deaf culture, sorted b
 
 We have tried to ensure that all resources have all been created by or in partnership with the Deaf community.
 
-If you have any additions to the list or concerns about any of the below resources, please contact us at auslan.club@anu.edu.au.
+If you have any additions to the list or concerns about any of the below resources, please contact us at [auslan.club@anu.edu.au](mailto:auslan.club@anu.edu.au).
 
 ## Organisations
 
