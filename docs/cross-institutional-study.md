@@ -2,7 +2,7 @@
 layout: default
 title: Cross-Institutional Study
 parent: Home
-nav_order: 4
+nav_order: 2
 description: Guidance on the cross-institutional study process to get a La Trobe Auslan course added to their ANU academic record as an elective.
 ---
 

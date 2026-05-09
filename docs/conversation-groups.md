@@ -2,7 +2,7 @@
 layout: default
 title: Conversation Groups
 parent: Home
-nav_order: 3
+nav_order: 1
 description: Information on Auslan Conversation Groups as run by the club.
 ---
 
@@ -41,7 +41,7 @@ Generally, the sessions will follow the below basic structure:
 
 **Q: Where are you getting your resources?**
 
-A: We try to ensure that all resources that are referenced during Conversation Groups are created by a Deaf person or trusted organisation (e.g. Deaf Connect, Deaf Australia). 
+A: We try to ensure that all resources referenced during Conversation Groups are created by a Deaf person or trusted organisation (e.g. Deaf Connect, Deaf Australia). 
 
 The slides are currently compiled by a hearing member of the Auslan Club exec team.
 

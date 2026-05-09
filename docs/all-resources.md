@@ -2,7 +2,7 @@
 layout: default
 title: All Resources
 parent: Home
-nav_order: 2
+nav_order: 3
 description: List of Auslan resources.
 ---
 

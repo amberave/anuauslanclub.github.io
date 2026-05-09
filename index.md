@@ -15,7 +15,7 @@ Our club was founded in 2023 by Dr Gemma King and a group of students at ANU, to
 
 ### What kind of activities does the ANU Auslan Club offer?
 
-At the moment, our most regular meetups are our [Auslan Conversation Groups](docs/conversation-groups.md), which take place every fortnight on Saturdays at 9:30am in Marie Reay.
+At the moment, our most regular meetups are our [Auslan Conversation Groups](docs/conversation-groups.html), which take place every fortnight on Saturdays at 9:30am in Marie Reay.
 
 ## Learning Auslan
 
