@@ -33,7 +33,7 @@ Deaf Connect offer classes for a concession fee or partial subsidy for eligible 
 
 ### Online Classes
 
-**[Online Course through La Trobe University](docs/cross-institutional-study.md) (that can count towards your degree!)**
+**[Online Course through La Trobe University](docs/cross-institutional-study) (that can count towards your degree!)**
 
 La Trobe University offers Auslan courses. We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available here for other ANU students. 😊
 
@@ -45,4 +45,4 @@ La Trobe University offers Auslan courses. We have had a member of our executive
 
 Although we strongly recommend you learn face-to-face with a certified Auslan teacher, we understand that some students cannot afford these classes or do not have the availability to commit to weekly classes. 
 
-Please see our page [All Resources](docs/all-resources.md) to find some resources to help get you started on your Auslan journey!
+Please see our page [All Resources](docs/all-resources) to find some resources to help get you started on your Auslan journey!

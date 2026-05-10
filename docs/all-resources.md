@@ -46,7 +46,7 @@ If you have any additions to the list or concerns about any of the below resourc
 ## Other YouTube channels & vodcasts (video podcasts)
 
 * [SBS x Deaf Australia: Our Deaf Ways](https://youtube.com/playlist?list=PLd0sYhqUtnFR2bHEn21apirbDglvjfItR&si=akM4bLVNABLjn7OD) - Over this six-part visual podcast series, Deaf people from all walks of life will share stories and perspectives on Deaf Ways. 
-* [SBS x Deaf Australia: Our Deaf Ways Season 2 | ‘Humans of the Deaf Australian Community’](https://www.youtube.com/watch?v=AWCB1Abxktk&list=PLd0sYhqUtnFQbRc_uEDK95HsOaCAccb6U) - Deaf people from all walks of life and from all around the country share their story and perspectives in short video portraits.
+* [SBS x Deaf Australia: Our Deaf Ways Season 2 - ‘Humans of the Deaf Australian Community’](https://www.youtube.com/watch?v=AWCB1Abxktk&list=PLd0sYhqUtnFQbRc_uEDK95HsOaCAccb6U) - Deaf people from all walks of life and from all around the country share their story and perspectives in short video portraits.
 * [Sign at the Table](https://www.youtube.com/@tiafunknsoul9744) - an Auslan vodcast with deaf co-hosts Olivia & Hannah from Melbourne. All videos have captions, most have voiceover in English.
 
 ## Other Websites
@@ -56,8 +56,8 @@ If you have any additions to the list or concerns about any of the below resourc
 
 ## Apps
 
-* **Auslan Dictionary** ([App Store](https://apps.apple.com/au/app/auslan-dictionary/id1531368368) | [Google Play](https://play.google.com/store/apps/details?id=com.banool.auslan_dictionary&pcampaignid=web_share)) - Signbank in app form. Allows for flashcard creation from chosen signs.
-* **Auslan Wiz** ([App Store](https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037) | [Google Play](https://play.google.com/store/apps/details?id=com.toleio.aus&hl=en-AU)) - Duolingo-style language learning app. You will need to create an account, this will allow you to learn basic greetings and the alphabet for free. A subscription gives access to the other lessons.
+* **Auslan Dictionary** ([App Store](https://apps.apple.com/au/app/auslan-dictionary/id1531368368) - [Google Play](https://play.google.com/store/apps/details?id=com.banool.auslan_dictionary&pcampaignid=web_share)) - Signbank in app form. Allows for flashcard creation from chosen signs.
+* **Auslan Wiz** ([App Store](https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037) - [Google Play](https://play.google.com/store/apps/details?id=com.toleio.aus&hl=en-AU)) - Duolingo-style language learning app. You will need to create an account, this will allow you to learn basic greetings and the alphabet for free. A subscription gives access to the other lessons.
 
 ## Social Media
 
