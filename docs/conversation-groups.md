@@ -8,7 +8,7 @@ description: Information on Auslan Conversation Groups as run by the club.
 
 # Conversation Groups
 
-Auslan Conversation are run fortnightly on Saturday mornings from 9:30am in Marie Reay. Sessions run for approximately 2 hours. See our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=OWUxOGI5OTkyN2M2MzU0N2FhZWUzOTgwM2UwMTQyOTIzOTVkMzk2YTc4Y2Q5NjI0MzU3YjdmNWQ4YjE1N2E5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for events details.
+Auslan Conversation are run fortnightly on Saturday mornings from 9:30am in Marie Reay. Sessions run for approximately 2 hours. See our [Rubric page](https://campus.hellorubric.com/?s=6331) for events details.
 
 Join for fun conversation, activities and meeting new people in a relaxed and supportive environment!
 

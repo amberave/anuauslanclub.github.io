@@ -4,8 +4,8 @@ theme: just-the-docs
 repository: amberave/anuauslanclub.github.io
 baseurl: ""
 url: https://anuauslanclub.github.io
-logo: "/images/general/aac-logo-banner.png"
-favicon_ico: "/images/general/favicon.ico"
+logo: "/images/general/aac-logo-banner2.png"
+favicon_ico: "/images/general/butterfly.ico"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

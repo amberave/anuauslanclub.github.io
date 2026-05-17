@@ -36,6 +36,8 @@ If you have any additions to the list or concerns about any of the below resourc
 
 * [Auslan Storybooks](http://www.auslanstorybooks.com/) (Trudy Fraser) - a website and [YouTube channel](https://www.youtube.com/@AuslanStorybooks) of stories told in Auslan.
 * [ABC iview: Auslan Storytime](https://iview.abc.net.au/show/abc-education-story-time-auslan) - A collection of Australian children's books signed for you in Auslan by presenters from Expression Australia. (Auslan)
+* [Sally & Possum](https://earlychildhood.qld.gov.au/sector-news-and-resources/teaching-and-learning-resources/sally-and-possum) - 'Sally and Possum' is an innovative television series for young children who are deaf or hard of hearing and whose primary language is Auslan.
+* [Western Australian Association of the Deaf (WAAD): WA Deaf Films](https://films.waad.org.au/) - Long ago, WA Deaf community established a WA Deaf Film Club and produced six movies between 20-60 minutes long. The movies have since then been converted from 8mm film reels to digital files.
 
 ## History
 
@@ -48,16 +50,24 @@ If you have any additions to the list or concerns about any of the below resourc
 * [SBS x Deaf Australia: Our Deaf Ways](https://youtube.com/playlist?list=PLd0sYhqUtnFR2bHEn21apirbDglvjfItR&si=akM4bLVNABLjn7OD) - Over this six-part visual podcast series, Deaf people from all walks of life will share stories and perspectives on Deaf Ways. 
 * [SBS x Deaf Australia: Our Deaf Ways Season 2 - ‘Humans of the Deaf Australian Community’](https://www.youtube.com/watch?v=AWCB1Abxktk&list=PLd0sYhqUtnFQbRc_uEDK95HsOaCAccb6U) - Deaf people from all walks of life and from all around the country share their story and perspectives in short video portraits.
 * [Sign at the Table](https://www.youtube.com/@tiafunknsoul9744) - an Auslan vodcast with deaf co-hosts Olivia & Hannah from Melbourne. All videos have captions, most have voiceover in English.
+* [Serena Thomas: Fingerspelling Practice](https://www.youtube.com/@serenathomas568) - an entire channel dedicated to fingerspelling comprehension. There are videos with different speeds of fingerspelling, and answers are not given.
 
-## Other Websites
+## Other Resources
 
+* [Awesome Auslan: Useful Links](https://awesomeauslan.com.au/resources/) - Michaela from Awesome Auslan has also compiled a list of resources similar to this!
 * [Deaf Children Australia: Practical Tools and Guides For Groups and Clubs](https://www.deafchildrenaustralia.org.au/practical-tools-and-guides-for-groups-and-clubs/) - a webpage with information on deafness and hearing, deaf awareness and downloadable PDFs of the Auslan alphabet and numbers.
-* [Auslan Resources](https://www.auslanresources.com.au/) - contains info on Auslan curriculums in Australian schools, resources such as posters and other teaching material can be bought.
+* [Western Australian Association of the Deaf (WAAD): Free Auslan Posters](https://www.waad.org.au/free-auslan-posters) - a collection of free Auslan posters with different signs by category.
 
 ## Apps
 
-* **Auslan Dictionary** ([App Store](https://apps.apple.com/au/app/auslan-dictionary/id1531368368) - [Google Play](https://play.google.com/store/apps/details?id=com.banool.auslan_dictionary&pcampaignid=web_share)) - Signbank in app form. Allows for flashcard creation from chosen signs.
-* **Auslan Wiz** ([App Store](https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037) - [Google Play](https://play.google.com/store/apps/details?id=com.toleio.aus&hl=en-AU)) - Duolingo-style language learning app. You will need to create an account, this will allow you to learn basic greetings and the alphabet for free. A subscription gives access to the other lessons.
+* **Auslan Dictionary** ([App Store](https://apps.apple.com/au/app/auslan-dictionary/id1531368368) • [Google Play](https://play.google.com/store/apps/details?id=com.banool.auslan_dictionary&pcampaignid=web_share)) - Signbank in app form. Allows for flashcard creation from chosen signs.
+
+* **Auslan Wiz** ([App Store](https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037) • [Google Play](https://play.google.com/store/apps/details?id=com.toleio.aus&hl=en-AU)) - Duolingo-style language learning app. You will need to create an account, this will allow you to learn basic greetings and the alphabet for free. A subscription gives access to the other lessons.
+
+* **Auslan Tutor** ([App Store](https://apps.apple.com/au/app/ridbc-auslan-tutor-key-signs/id390629037) • [Google Play](https://play.google.com/store/apps/details?id=ridbc.auslan.tutor.keysigns&hl=en)) - Video-based app for learning how to communicate 150 common Auslan signs.
+
+* **Auslan Tutor 2** ([App Store](https://apps.apple.com/au/app/auslan-tutor-2/id1477915207) • [Google Play](https://play.google.com/store/apps/details?id=au.org.nextsense.auslan.tutor&hl=en)) - Video-based teaching for learning Auslan.
+
 
 ## Social Media
 
@@ -66,6 +76,8 @@ If you have any additions to the list or concerns about any of the below resourc
 * latrobeuni_auslan - the Auslan teacher for La Trobe University regularly uploads videos for fingerspelling and sign comprehension, as well as new signs to learn!
 
 ## Books
+
+* [Storygraph: Deaf #OwnVoices](https://app.thestorygraph.com/reading_challenges/2cdc2fb7-64f3-4bc4-890d-bc236a511257) - a Storygraph reading challenge/list of books by d/Deaf authors. Each entry specifies the country of origin and broad genre of the book.
 
 ### Non-Fiction
 
