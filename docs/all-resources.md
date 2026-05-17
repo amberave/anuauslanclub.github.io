@@ -13,6 +13,20 @@ We have tried to ensure that all resources have all been created by or in partne
 
 If you have any additions to the list or concerns about any of the below resources, please contact us at [auslan.club@anu.edu.au](mailto:auslan.club@anu.edu.au).
 
+## Table of Contents
+
+1. [Organisations](#organisations)
+2. [Dictionaries](#dictionaries)
+3. [Online Auslan Courses](#online-auslan-courses)
+4. [Stories/Narratives in Auslan](#storiesnarratives-in-auslan)
+5. [History](#history)
+6. [Other YouTube channels](#other-youtube-channels)
+6. [Auslan Posters & Other Resources](#auslan-posters--other-resources)
+7. [Apps](#apps)
+8. [Social Media Accounts](#social-media)
+9. [Books](#books)
+10. [Films](#films)
+
 ## Organisations
 
 * [DeafNav](https://deafnav.com.au/understand/communication/auslan/learn-auslan) - platform with info on the Deaf community and Auslan in Australia. It lists providers of Auslan classes by state.
@@ -35,24 +49,26 @@ If you have any additions to the list or concerns about any of the below resourc
 ## Stories/Narratives in Auslan
 
 * [Auslan Storybooks](http://www.auslanstorybooks.com/) (Trudy Fraser) - a website and [YouTube channel](https://www.youtube.com/@AuslanStorybooks) of stories told in Auslan.
+* [Western Australian Association of the Deaf (WAAD): WA Deaf Films](https://films.waad.org.au/) - Long ago, WA Deaf community established a WA Deaf Film Club and produced six movies between 20-60 minutes long. The movies have since then been converted from 8mm film reels to digital files.
 * [ABC iview: Auslan Storytime](https://iview.abc.net.au/show/abc-education-story-time-auslan) - A collection of Australian children's books signed for you in Auslan by presenters from Expression Australia. (Auslan)
 * [Sally & Possum](https://earlychildhood.qld.gov.au/sector-news-and-resources/teaching-and-learning-resources/sally-and-possum) - 'Sally and Possum' is an innovative television series for young children who are deaf or hard of hearing and whose primary language is Auslan.
-* [Western Australian Association of the Deaf (WAAD): WA Deaf Films](https://films.waad.org.au/) - Long ago, WA Deaf community established a WA Deaf Film Club and produced six movies between 20-60 minutes long. The movies have since then been converted from 8mm film reels to digital files.
 
 ## History
 
 * [Deaf History Collections](https://deafhistorycollections.com.au/) - an archive of information on Auslan and Deaf culture.
-* [Deaf TV Aussie](https://www.youtube.com/@deaftvaussie) - YouTube channel that contains Deaf history stories in Auslan as well as Deaf/Auslan TV and sports.
+* [Deaf TV Aussie](https://www.youtube.com/@deaftvaussie) - YouTube channel that contains stories about Deaf history in Auslan as well as Deaf/Auslan TV and sports.
 * [Deaf in NSW: A Community History](https://deafinnsw.com/) - explores the experiences of deaf people in New South Wales since the late 18th Century.
 
-## Other YouTube channels & vodcasts (video podcasts)
+## Other YouTube channels
+
+Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Auslan practice. 
 
 * [SBS x Deaf Australia: Our Deaf Ways](https://youtube.com/playlist?list=PLd0sYhqUtnFR2bHEn21apirbDglvjfItR&si=akM4bLVNABLjn7OD) - Over this six-part visual podcast series, Deaf people from all walks of life will share stories and perspectives on Deaf Ways. 
 * [SBS x Deaf Australia: Our Deaf Ways Season 2 - ‘Humans of the Deaf Australian Community’](https://www.youtube.com/watch?v=AWCB1Abxktk&list=PLd0sYhqUtnFQbRc_uEDK95HsOaCAccb6U) - Deaf people from all walks of life and from all around the country share their story and perspectives in short video portraits.
 * [Sign at the Table](https://www.youtube.com/@tiafunknsoul9744) - an Auslan vodcast with deaf co-hosts Olivia & Hannah from Melbourne. All videos have captions, most have voiceover in English.
 * [Serena Thomas: Fingerspelling Practice](https://www.youtube.com/@serenathomas568) - an entire channel dedicated to fingerspelling comprehension. There are videos with different speeds of fingerspelling, and answers are not given.
 
-## Other Resources
+## Auslan Posters & Other Resources
 
 * [Awesome Auslan: Useful Links](https://awesomeauslan.com.au/resources/) - Michaela from Awesome Auslan has also compiled a list of resources similar to this!
 * [Deaf Children Australia: Practical Tools and Guides For Groups and Clubs](https://www.deafchildrenaustralia.org.au/practical-tools-and-guides-for-groups-and-clubs/) - a webpage with information on deafness and hearing, deaf awareness and downloadable PDFs of the Auslan alphabet and numbers.
