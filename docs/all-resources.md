@@ -89,7 +89,7 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 
 ### Instagram
 
-* latrobeuni_auslan - the Auslan teacher for La Trobe University regularly uploads videos for fingerspelling and sign comprehension, as well as new signs to learn!
+* [latrobeuni_auslan](https://www.instagram.com/latrobeuni_auslan/) - the Auslan teacher for La Trobe University regularly uploads videos for fingerspelling and sign comprehension, as well as new signs to learn!
 
 ## Books
 
@@ -97,13 +97,13 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 
 ### Non-Fiction
 
-* Auslan: an introduction to sign language linguistics by Trevor Johnston & Adam Schembri - the seminal book on Auslan linguistics.
+* [Auslan: an introduction to sign language linguistics by Trevor Johnston & Adam Schembri](https://www.goodreads.com/book/show/943350.Australian_Sign_Language_Auslan_) - the seminal book on Auslan linguistics.
 
 #### Memoirs
 
-* The Shape of Sound by Fiona Murphy
-* The Art of Being Deaf by Donna McDonald
+* [The Shape of Sound by Fiona Murphy](https://www.goodreads.com/book/show/56316375-the-shape-of-sound)
+* [The Art of Being Deaf by Donna McDonald](https://www.goodreads.com/book/show/18706792-the-art-of-being-deaf)
 
 ## Films
 
-* [Sign on Screen](https://signonscreen.com/) - a website that contains a comprehensive database of films that contain signing and d/Deaf characters.
+* [Sign on Screen](https://signonscreen.com/) - a website that contains a comprehensive database of all feature films, shorts, series, documentaries and children’s screen texts made in sign language, with d/Deaf participants or about deafness, from the silent film era to the present day.
