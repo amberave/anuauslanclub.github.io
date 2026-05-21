@@ -35,13 +35,13 @@ Deaf Connect offer classes for a concession fee or partial subsidy for eligible 
 
 1. **[Online Course through La Trobe University](./docs/cross-institutional-study.html) (that can count towards your degree!)**
 
-La Trobe University offers Auslan courses which can be completed online. 
+> La Trobe University offers Auslan courses which can be completed online. 
 
-We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](./docs/cross-institutional-study.html) for other ANU students.
+> We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](./docs/cross-institutional-study.html) for other ANU students.
 
 2. **[Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online)**
 
- Deaf Connect offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
+> Deaf Connect offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
 
 ### Other Resources
 
