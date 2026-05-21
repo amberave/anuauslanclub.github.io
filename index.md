@@ -7,11 +7,6 @@ layout: home
 
 For the latest updates on the ANU Auslan Club, please follow our [Instagram](https://www.instagram.com/anuauslanclub/) and [Facebook group](https://www.facebook.com/groups/482736490736658/).
 
-<figure>
-  <img style="float: right;" src="images/general/butterfly.ico" alt="A blue butterfly" width="40" height="40">
-  <figcaption style="float: right;"><small>Did you know that most butterfly species are deaf?</small></figcaption>
-</figure>
-
 ### What is Auslan?
 Auslan is **Aus**tralian Sign **Lan**guage.
 
