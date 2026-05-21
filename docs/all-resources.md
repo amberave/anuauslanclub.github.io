@@ -15,7 +15,16 @@ If you have any additions to the list or concerns about any of the below resourc
 
 ## Table of Contents
 
-1. [Organisations](#organisations)
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- 1. [Organisations](#organisations)
 2. [Dictionaries](#dictionaries)
 3. [Online Auslan Courses](#online-auslan-courses)
 4. [Stories/Narratives in Auslan](#storiesnarratives-in-auslan)
@@ -25,7 +34,7 @@ If you have any additions to the list or concerns about any of the below resourc
 7. [Apps](#apps)
 8. [Social Media Accounts](#social-media)
 9. [Books](#books)
-10. [Films](#films)
+10. [Films](#films) -->
 
 ## Organisations
 
