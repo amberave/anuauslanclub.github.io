@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+has_toc: false
+toc: false
 ---
 
 # Welcome to the ANU Auslan Club Website!
