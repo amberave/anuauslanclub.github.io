@@ -9,7 +9,7 @@ For the latest updates on the ANU Auslan Club, please follow our [Instagram](htt
 
 <figure>
   <img style="float: right;" src="images/general/butterfly.ico" alt="A blue butterfly" width="40" height="40">
-  <figcaption><small>Did you know that most butterfly species are deaf?</small></figcaption>
+  <figcaption style="float: right;"><small>Did you know that most butterfly species are deaf?</small></figcaption>
 </figure>
 
 ### What is Auslan?
