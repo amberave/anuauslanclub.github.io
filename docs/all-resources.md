@@ -15,6 +15,7 @@ If you have any additions to the list or concerns about any of the below resourc
 
 ## Table of Contents
 
+<!-- Ignore the below, it generates a TOC for easy navigation -->
 # Navigation Structure
 {: .no_toc }
 
@@ -23,18 +24,7 @@ If you have any additions to the list or concerns about any of the below resourc
 
 1. TOC
 {:toc}
-
-<!-- 1. [Organisations](#organisations)
-2. [Dictionaries](#dictionaries)
-3. [Online Auslan Courses](#online-auslan-courses)
-4. [Stories/Narratives in Auslan](#storiesnarratives-in-auslan)
-5. [History](#history)
-6. [Other YouTube channels](#other-youtube-channels)
-6. [Auslan Posters & Other Resources](#auslan-posters--other-resources)
-7. [Apps](#apps)
-8. [Social Media Accounts](#social-media)
-9. [Books](#books)
-10. [Films](#films) -->
+<!-- Ignore the above -->
 
 ## Organisations
 

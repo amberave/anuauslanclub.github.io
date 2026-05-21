@@ -17,7 +17,7 @@ Our club was founded in 2023 by Dr Gemma King and a group of students at ANU, to
 
 ### What kind of activities does the ANU Auslan Club offer?
 
-At the moment, our most regular meetups are our [Auslan Conversation Groups](/docs/conversation-groups.html), which take place every fortnight on Saturdays at 9:30am in Marie Reay.
+At the moment, our most regular meetups are our [Auslan Conversation Groups](./docs/conversation-groups.html), which take place every fortnight on Saturdays at 9:30am in Marie Reay.
 
 ## Learning Auslan
 
@@ -35,11 +35,11 @@ Deaf Connect offer classes for a concession fee or partial subsidy for eligible 
 
 ### Online Classes
 
-**[Online Course through La Trobe University](/docs/cross-institutional-study.html) (that can count towards your degree!)**
+**[Online Course through La Trobe University](./docs/cross-institutional-study.html) (that can count towards your degree!)**
 
 La Trobe University offers Auslan courses which can be completed online. 
 
-We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](/docs/cross-institutional-study/) for other ANU students.
+We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](./docs/cross-institutional-study.html) for other ANU students.
 
 **[Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online)**
 
@@ -51,4 +51,4 @@ Although we strongly recommend you learn face-to-face with a certified Auslan te
 
 If you are interested in Auslan but are not sure if you want to commit to a full class, we would recommend you check out the [Auslan Taster from DeafNav](https://deafnav.com.au/access/training/auslan-taster). It includes videos about Auslan, its history and lessons on the Auslan alphabet, numbers and common phrases.
 
-Otherwise, please see [All Resources](/docs/all-resources.html) to find more resources to help get you started on your Auslan journey!
+Otherwise, please see [All Resources](./docs/all-resources.html) to find more resources to help get you started on your Auslan journey!
