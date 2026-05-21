@@ -12,7 +12,7 @@ Auslan Conversation are run fortnightly on Saturday mornings from 9:30am in Mari
 
 Join for fun conversation, activities and meeting new people in a relaxed and supportive environment!
 
-All the slides for previous sessions of Auslan Conversation Groups can be found in [Google Drive](https://drive.google.com/drive/folders/1NqLnAX-A26iFwiPl5cBYlCVFSvKH7bJF?usp=sharing).
+All the slides for previous sessions of Auslan Conversation Groups can be found in [Google Drive](https://drive.google.com/drive/folders/19J0fJKNP94wh26Dh0gpf1TsDdKjUW1bS?usp=sharing).
 
 ### Frequently Asked Questions
 
