@@ -7,6 +7,11 @@ layout: home
 
 For the latest updates on the ANU Auslan Club, please follow our [Instagram](https://www.instagram.com/anuauslanclub/) and [Facebook group](https://www.facebook.com/groups/482736490736658/).
 
+<figure>
+  <img style="float: right;" src="images/general/butterfly.ico" alt="A blue butterfly" width="40" height="40">
+  <figcaption><small>Did you know that most butterfly species are deaf?</small></figcaption>
+</figure>
+
 ### What is Auslan?
 Auslan is **Aus**tralian Sign **Lan**guage.
 
@@ -28,20 +33,24 @@ Unfortunately, the club is not currently offering classes. Any future offerings 
 The best, most effective way to learn Auslan is face-to-face classes with a Deaf teacher. 
 
 Deaf Connect offer classes for a concession fee or partial subsidy for eligible students:
-* [Beginner classes](https://deafconnect.org.au/services/beginner-courses-in-auslan) run for a term and are a good way to learn some basic conversational Auslan.
+* [Beginner classes](https://deafconnect.org.au/services/beginner-courses-in-auslan) run for a term and are a good way to learn some basic conversational Auslan. There is *Introduction to Auslan 1*, which can be followed by (and is a prerequisite for) *Introduction to Auslan 2*.
 * [Certificate II in Auslan](https://deafconnect.org.au/course/certificate-ii-in-auslan) runs for a semester and is available to complete beginners. It offers a more in-depth course with assessments to test your knowledge and understanding of class content.
 
 ### Online Classes
 
-* **[Online Course through La Trobe University](./docs/cross-institutional-study.html) (that can count towards your degree!)**
+* **[La Trobe University - Online Course](./docs/cross-institutional-study.html) (that can count towards your degree!)**
 
 > La Trobe University offers Auslan courses which can be completed online. 
 
 > We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](./docs/cross-institutional-study.html) for other ANU students.
 
+* **[Deaf Connect - Beginner classes (online)](https://deafconnect.org.au/services/beginner-courses-in-auslan)**
+
+> Same as the F2F classes, these run for a term and are a good way to learn some basic conversational Auslan. You can select the 'Online' tab in the *Upcoming Classes* section of the course to see available classes.
+
 * **[Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online)**
 
-> Deaf Connect offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
+> Deaf Connect also offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
 
 ### Other Resources
 
