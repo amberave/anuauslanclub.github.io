@@ -56,7 +56,7 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 
 * [SBS x Deaf Australia: Our Deaf Ways](https://youtube.com/playlist?list=PLd0sYhqUtnFR2bHEn21apirbDglvjfItR&si=akM4bLVNABLjn7OD) - Over this six-part visual podcast series, Deaf people from all walks of life will share stories and perspectives on Deaf Ways. 
 * [SBS x Deaf Australia: Our Deaf Ways Season 2 - ‘Humans of the Deaf Australian Community’](https://www.youtube.com/watch?v=AWCB1Abxktk&list=PLd0sYhqUtnFQbRc_uEDK95HsOaCAccb6U) - Deaf people from all walks of life and from all around the country share their story and perspectives in short video portraits.
-* [Sign at the Table](https://www.youtube.com/@tiafunknsoul9744) - an Auslan vodcast with deaf co-hosts Olivia & Hannah from Melbourne. All videos have captions, most have voiceover in English.
+* [Sign at the Table](https://www.youtube.com/@SignAtTheTable) - an Auslan vodcast with deaf co-hosts Olivia & Hannah from Melbourne. All videos have captions, most have voiceover in English.
 * [Serena Thomas: Fingerspelling Practice](https://www.youtube.com/@serenathomas568) - an entire channel dedicated to fingerspelling comprehension. There are videos with different speeds of fingerspelling, and answers are not given.
 
 ## Auslan Posters & Other Resources
@@ -71,7 +71,7 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 
 * **Auslan Wiz** ([App Store](https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037) • [Google Play](https://play.google.com/store/apps/details?id=com.toleio.aus&hl=en-AU)) - Duolingo-style language learning app. You will need to create an account, this will allow you to learn basic greetings and the alphabet for free. A subscription gives access to the other lessons.
 
-* **Auslan Tutor** ([App Store](https://apps.apple.com/au/app/ridbc-auslan-tutor-key-signs/id390629037) • [Google Play](https://play.google.com/store/apps/details?id=ridbc.auslan.tutor.keysigns&hl=en)) - Video-based app for learning how to communicate 150 common Auslan signs.
+* **Auslan Tutor** ([App Store](https://apps.apple.com/au/app/ridbc-auslan-tutor-key-signs/id390629037) • [Google Play](https://play.google.com/store/apps/details?id=ridbc.auslan.tutor.keysigns&hl=en)) - Video-based app for learning how to communicate 150 common Auslan signs. May be unavailable due to lack of updates; see Auslan Tutor 2.
 
 * **Auslan Tutor 2** ([App Store](https://apps.apple.com/au/app/auslan-tutor-2/id1477915207) • [Google Play](https://play.google.com/store/apps/details?id=au.org.nextsense.auslan.tutor&hl=en)) - Video-based teaching for learning Auslan.
 
