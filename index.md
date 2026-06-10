@@ -33,19 +33,11 @@ Deaf Connect offer classes for a concession fee or partial subsidy for eligible 
 
 ### Online Classes
 
-* **[La Trobe University - Online Course](./docs/cross-institutional-study.html) (that can count towards your degree!)**
+* [La Trobe University - Online Course](./docs/cross-institutional-study.html) **(that can count towards your degree!)** - We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](./docs/cross-institutional-study.html) for other ANU students.
 
-> La Trobe University offers Auslan courses which can be completed online. 
+* [Deaf Connect - Beginner classes (online)](https://deafconnect.org.au/services/beginner-courses-in-auslan) -  Same as the F2F classes, these run for a term and are a good way to learn some basic conversational Auslan. You can select the 'Online' tab in the *Upcoming Classes* section of the course to see available classes.
 
-> We have had a member of our executive team complete one of these courses and have it successfully added to their academic record as an elective. They have documented their process and made it available [here](./docs/cross-institutional-study.html) for other ANU students.
-
-* **[Deaf Connect - Beginner classes (online)](https://deafconnect.org.au/services/beginner-courses-in-auslan)**
-
-> Same as the F2F classes, these run for a term and are a good way to learn some basic conversational Auslan. You can select the 'Online' tab in the *Upcoming Classes* section of the course to see available classes.
-
-* **[Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online)**
-
-> Deaf Connect also offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
+* [Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online) - Deaf Connect also offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
 
 ### Other Resources
 

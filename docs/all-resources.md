@@ -40,9 +40,8 @@ If you have any additions to the list or concerns about any of the below resourc
 ## Stories/Narratives in Auslan
 
 * [Auslan Storybooks](http://www.auslanstorybooks.com/) (Trudy Fraser) - a website and [YouTube channel](https://www.youtube.com/@AuslanStorybooks) of stories told in Auslan.
-* [Western Australian Association of the Deaf (WAAD): WA Deaf Films](https://films.waad.org.au/) - Long ago, WA Deaf community established a WA Deaf Film Club and produced six movies between 20-60 minutes long. The movies have since then been converted from 8mm film reels to digital files.
 * [ABC iview: Auslan Storytime](https://iview.abc.net.au/show/abc-education-story-time-auslan) - A collection of Australian children's books signed for you in Auslan by presenters from Expression Australia. (Auslan)
-* [Sally & Possum](https://earlychildhood.qld.gov.au/sector-news-and-resources/teaching-and-learning-resources/sally-and-possum) - 'Sally and Possum' is an innovative television series for young children who are deaf or hard of hearing and whose primary language is Auslan.
+
 
 ## History
 
@@ -78,9 +77,23 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 
 ## Social Media
 
+### Facebook
+
+* [DeafACT](https://www.facebook.com/DeafACT.Canberra/)
+
 ### Instagram
 
 * [latrobeuni_auslan](https://www.instagram.com/latrobeuni_auslan/) - the Auslan teacher for La Trobe University regularly uploads videos for fingerspelling and sign comprehension, as well as new signs to learn!
+* [deafaboriginalservices](https://www.instagram.com/deafaboriginalservices/)
+* [findoutwiththomas](https://www.instagram.com/findoutwiththomas/)
+* [\_laurentoni_](https://www.instagram.com/_laurentoni_/)
+* [oliviabeasleyy_](https://www.instagram.com/oliviabeasleyy_/)
+* [just.auslan](https://www.instagram.com/just.auslan/)
+* [openthatdoor__](https://www.instagram.com/openthatdoor__/)
+* [keepingupwiththecallaghans_](https://www.instagram.com/keepingupwiththecallaghans_/)
+* [auslanrocks](https://www.instagram.com/auslanrocks/)
+* [v.alford](https://www.instagram.com/v.alford/)
+* [auslanconsultancy](https://www.instagram.com/auslanconsultancy/)
 
 ## Books
 
@@ -98,3 +111,9 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 ## Films
 
 * [Sign on Screen](https://signonscreen.com/) - a website that contains a comprehensive database of all feature films, shorts, series, documentaries and children’s screen texts made in sign language, with d/Deaf participants or about deafness, from the silent film era to the present day.
+* [Imagined Touch (SBS On Demand)](https://www.sbs.com.au/ondemand/tv-program/imagined-touch/2387404355967) - A short film (30 mins) about the collaboration between deafblind performers Michelle Stevens, Heather Lawson and Jodee Mundy, who wrestle with how to perform on stage while leading the audience to a true understanding of what it is like to live without hearing and sight.
+* [Deafying Gravity](https://vimeo.com/601935346) - A short film (13 mins) about Katia Schwartz, a Deaf and Queer professional Aerial performer, and the owner/founder of Sky Sirens dance studio in Sydney, Australia. After an unexpected diagnosis with a profound hearing loss not once but twice, she is compelled to reflect on her identity, life and career.
+* [Auslan Collection (SBS On Demand)](https://www.sbs.com.au/ondemand/auslan)
+* [Sally & Possum](https://earlychildhood.qld.gov.au/sector-news-and-resources/teaching-and-learning-resources/sally-and-possum) - 'Sally and Possum' is an innovative television series for young children who are deaf or hard of hearing and whose primary language is Auslan.
+* [Western Australian Association of the Deaf (WAAD): WA Deaf Films](https://films.waad.org.au/) - Long ago, WA Deaf community established a WA Deaf Film Club and produced six movies between 20-60 minutes long. The movies have since then been converted from 8mm film reels to digital files.
+
