@@ -33,9 +33,15 @@ If you have any additions to the list or concerns about any of the below resourc
 
 ## Online Auslan Courses
 
+### Free
 * [DeafNav: Auslan Taster](https://deafnav.com.au/access/training/auslan-taster) - videos about Auslan, its history and lessons on the alphabet, numbers and common phrases. If you have no experience with Auslan, start here!
 * [Monash University: Auslan Textbook](https://www.monash.edu/arts/languages-literatures-cultures-linguistics/auslan-beginner-textbook) - This textbook was developed by a team of Deaf and hearing researchers at Monash University. Free to download and use.
 * [Asphyxia](https://helloasphyxia.wordpress.com/about-asphyxia/) - a website by Deaf advocate Asphyxia with free online Auslan beginner courses, the signs taught through videos from her [YouTube channel.](https://www.youtube.com/@Asphyxia16)
+
+### Paid
+* [DeafConnect: Sign Online](https://deafconnect.org.au/course/sign-online)
+* [LisaMillsOnline: Auslan Courses](https://www.lisamillsonline.com/auslan-courses)
+* [Awesome Auslan](https://www.awesomeauslan.com.au/courses/)
 
 ## Stories/Narratives in Auslan
 
@@ -108,12 +114,15 @@ Other YouTube channels & vodcasts (video podcasts) about Deaf culture and for Au
 * [The Shape of Sound by Fiona Murphy](https://www.goodreads.com/book/show/56316375-the-shape-of-sound)
 * [The Art of Being Deaf by Donna McDonald](https://www.goodreads.com/book/show/18706792-the-art-of-being-deaf)
 
-## Films
+## Films & TV
 
 * [Sign on Screen](https://signonscreen.com/) - a website that contains a comprehensive database of all feature films, shorts, series, documentaries and children’s screen texts made in sign language, with d/Deaf participants or about deafness, from the silent film era to the present day.
 * [Imagined Touch (SBS On Demand)](https://www.sbs.com.au/ondemand/tv-program/imagined-touch/2387404355967) - A short film (30 mins) about the collaboration between deafblind performers Michelle Stevens, Heather Lawson and Jodee Mundy, who wrestle with how to perform on stage while leading the audience to a true understanding of what it is like to live without hearing and sight.
 * [Deafying Gravity](https://vimeo.com/601935346) - A short film (13 mins) about Katia Schwartz, a Deaf and Queer professional Aerial performer, and the owner/founder of Sky Sirens dance studio in Sydney, Australia. After an unexpected diagnosis with a profound hearing loss not once but twice, she is compelled to reflect on her identity, life and career.
-* [Auslan Collection (SBS On Demand)](https://www.sbs.com.au/ondemand/auslan)
-* [Sally & Possum](https://earlychildhood.qld.gov.au/sector-news-and-resources/teaching-and-learning-resources/sally-and-possum) - 'Sally and Possum' is an innovative television series for young children who are deaf or hard of hearing and whose primary language is Auslan.
 * [Western Australian Association of the Deaf (WAAD): WA Deaf Films](https://films.waad.org.au/) - Long ago, WA Deaf community established a WA Deaf Film Club and produced six movies between 20-60 minutes long. The movies have since then been converted from 8mm film reels to digital files.
+* [Sally & Possum](https://earlychildhood.qld.gov.au/sector-news-and-resources/teaching-and-learning-resources/sally-and-possum) - 'Sally and Possum' is an innovative television series for young children who are deaf or hard of hearing and whose primary language is Auslan. Sally and Possum communicate in Auslan, with voiceover in English.
+* [Auslan Collection (SBS On Demand)](https://www.sbs.com.au/ondemand/auslan)
+* [ABC News with Auslan (ABC iview)](https://iview.abc.net.au/show/abc-news-with-auslan)
+* [Auslan on ABC Kids (ABC iview)](https://iview.abc.net.au/collection/4400) - Kids' programs with an Auslan interpreter.
+
 
