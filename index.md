@@ -21,7 +21,9 @@ At the moment, our most regular meetups are our [Auslan Conversation Groups](./d
 
 ### Classes through ANU Auslan Club
 
-Unfortunately, the club is not currently offering classes. Any future offerings will be advertised on our Instagram and Facebook group.
+The club is currently in the process of organising classes for Semester 2, 2026! 
+
+These classes will be conducted online and will run for 6 weeks. To register your interest, please fill out [this form](https://forms.gle/VDhUaRXRHipQmvry6). These classes are only available to current ANU students.
 
 ### Local Classes
 
@@ -37,7 +39,9 @@ Deaf Connect offer classes for a concession fee or partial subsidy for eligible 
 
 * [Deaf Connect - Beginner classes (online)](https://deafconnect.org.au/services/beginner-courses-in-auslan) -  Same as the F2F classes, these run for a term and are a good way to learn some basic conversational Auslan. You can select the 'Online' tab in the *Upcoming Classes* section of the course to see available classes.
 
-* [Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online) - Deaf Connect also offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs. 
+* [Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online) - Deaf Connect also offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs.
+
+* [Self-Paced Courses](./docs/all-resources.html#online-auslan-courses-self-paced) - See our section in [All Resources](./docs/all-resources.html) for self-paced Auslan courses, which are a good option if you don't have the availability to enrol in a regular class time.
 
 ### Other Resources
 

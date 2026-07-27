@@ -31,7 +31,11 @@ If you have any additions to the list or concerns about any of the below resourc
 * [FindSign](https://find.auslan.fyi/) - searches Signbank, Spread the Sign, Asphyxia and more for sign examples.
 * [SignHow](https://www.signhow.co/m) - contains less common signs and some sentences to show signs in context, requires a free account to access.
 
-## Online Auslan Courses
+## Online Auslan Courses (Self-Paced)
+
+Below are some materials and courses that you can follow along with at your own pace to learn Auslan.
+
+The paid options will be more interactive, and probably more structured and updated. Just keep in mind that the paid options may give you access to their materials for a limited time, so make sure you can complete the course during that period!
 
 ### Free
 * [DeafNav: Auslan Taster](https://deafnav.com.au/access/training/auslan-taster) - videos about Auslan, its history and lessons on the alphabet, numbers and common phrases. If you have no experience with Auslan, start here!
@@ -41,7 +45,7 @@ If you have any additions to the list or concerns about any of the below resourc
 ### Paid
 * [DeafConnect: Sign Online](https://deafconnect.org.au/course/sign-online)
 * [LisaMillsOnline: Auslan Courses](https://www.lisamillsonline.com/auslan-courses)
-* [Awesome Auslan](https://www.awesomeauslan.com.au/courses/)
+* [Awesome Auslan: Courses](https://www.awesomeauslan.com.au/courses/)
 
 ## Stories/Narratives in Auslan
 
