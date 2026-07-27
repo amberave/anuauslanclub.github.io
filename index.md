@@ -15,7 +15,7 @@ Our club was founded in 2023 by Dr Gemma King and a group of students at ANU, to
 
 ### What kind of activities does the ANU Auslan Club offer?
 
-At the moment, our most regular meetups are our [Auslan Conversation Groups](./docs/conversation-groups.html), which take place every fortnight on Saturdays at 9:30am in Marie Reay.
+At the moment, our most regular meetups are our [Auslan Conversation Groups](./docs/conversation-groups.html), which take place every fortnight on Saturdays at 9:30am in Marie Reay. You can check [Rubric](https://campus.hellorubric.com/?s=6331) for the date of our next session. 
 
 ## Learning Auslan
 
@@ -23,7 +23,7 @@ At the moment, our most regular meetups are our [Auslan Conversation Groups](./d
 
 The club is currently in the process of organising classes for Semester 2, 2026! 
 
-These classes will be conducted online and will run for 6 weeks. To register your interest, please fill out [this form](https://forms.gle/VDhUaRXRHipQmvry6). These classes are only available to current ANU students.
+These classes will be conducted online and will run for 6 weeks. To register your interest, please fill out [this form](https://forms.gle/VDhUaRXRHipQmvry6). These classes will only be available to current ANU students.
 
 ### Local Classes
 
@@ -39,14 +39,12 @@ Deaf Connect offer classes for a concession fee or partial subsidy for eligible 
 
 * [Deaf Connect - Beginner classes (online)](https://deafconnect.org.au/services/beginner-courses-in-auslan) -  Same as the F2F classes, these run for a term and are a good way to learn some basic conversational Auslan. You can select the 'Online' tab in the *Upcoming Classes* section of the course to see available classes.
 
-* [Deaf Connect - Sign Online](https://deafconnect.org.au/course/sign-online) - Deaf Connect also offers a self-paced online course. There are also many other Auslan courses available online that you can research to find one that suits your needs.
-
-* [Self-Paced Courses](./docs/all-resources.html#online-auslan-courses-self-paced) - See our section in [All Resources](./docs/all-resources.html) for self-paced Auslan courses, which are a good option if you don't have the availability to enrol in a regular class time.
+* [Self-Paced Courses](./docs/all-resources.html#online-auslan-courses-self-paced) - We've listed a few self-paced Auslan courses, which are a good option if you don't have the availability to commit to weekly classes.
 
 ### Other Resources
 
 Although we strongly recommend you learn face-to-face with a certified Auslan teacher, we understand that some students cannot afford these classes or do not have the availability to commit to weekly classes.
 
-If you are interested in Auslan but are not sure if you want to commit to a full class, we would recommend you check out the [Auslan Taster from DeafNav](https://deafnav.com.au/access/training/auslan-taster). It includes videos about Auslan, its history and lessons on the Auslan alphabet, numbers and common phrases.
+If you are interested in Auslan but are not sure if you want to commit to a full class, we would recommend you check out the [Auslan Taster from DeafNav](https://deafnav.com.au/access/training/auslan-taster). It includes introductory videos about Auslan, its history and lessons on the Auslan alphabet, numbers and common phrases.
 
 Otherwise, please see [All Resources](./docs/all-resources.html) to find more resources to help get you started on your Auslan journey!

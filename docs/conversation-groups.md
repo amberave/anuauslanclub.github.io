@@ -22,7 +22,7 @@ A: At the moment, we will try and have all the sessions in 3.04 in Marie Reay. A
 
 **Q: Will there be a teacher?**
 
-A: No. There will be a facilitator who will go through the slides, but they are not qualified to teach Auslan. The Auslan Club does not currently have the resources to hire an Auslan teacher for these sessions. If you are interested in learning Auslan, please see [our advice on finding a class for you!](../#local-classes)
+A: No. There will be a facilitator who will go through the slides, but they are not qualified to teach Auslan. The Auslan Club does not currently have the resources to hire an Auslan teacher for these sessions. If you are interested in learning Auslan, please see [our advice on finding a class for you!](../#learning-auslan)
 
 **Q: Can I come along if I don't know any Auslan?**
 
